@@ -8,24 +8,24 @@ As you problaby know you have to create a login for your device on the network
 
 ### Step 1: Log in to net.aau.dk
 
-![Why would you read this ](<Step 1.PNG>)
+![Why would anyone read this ](<Step 1.png>)
 
 
 ### Step 2: Create device
 
-![Seriously Why would you read this ](<Step 2.PNG>)
+![Why would you read this ](<Step 2.png>)
 
 ### Step 3: Give it a silly name
 
-![Something is cleary wrong](<Step 3.PNG>)
+![Something is cleary wrong](<Step 3.png>)
 
 
 ### Step 4: aaaaand copy the credentials
 
-![Fix pls](<Step 4.PNG>)
+![Fix pls](<Step 4.png>)
 
 
 
 ### Step 5: paste and you're done :)
 
-![Fix pls](<Step 5.PNG>)
+![Fix pls](<Step 5.png>)
